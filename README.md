@@ -78,6 +78,12 @@ Auto Loader provides incremental file ingestion and maintains streaming state th
 
 ![Auto Loader Ingestion](images/autoloader.png)
 
+### Data Quality Check During ingestion
+
+### Screenshot
+
+![Auto Loader Ingestion](images/data_quality.png)
+
 
 ## 🥉 2. Bronze Layer
 Validated incoming data is persisted as a **Bronze Delta table**.
